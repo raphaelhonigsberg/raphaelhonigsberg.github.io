@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Raphaël Honigsberg - Microfluidics & microfabrication</title>
+<meta name="description" content="Raphaël Honigsberg, PhD candidate at ENS Paris-Saclay in microfluidics, 3D microfabrication and single-cell imaging of microalgae and bacteria. Seeking a postdoctoral position from January-February 2027.">
+<meta name="author" content="Raphaël Honigsberg">
+<meta property="og:title" content="Raphaël Honigsberg - Microfluidics & microfabrication">
+<meta property="og:description" content="PhD candidate, ENS Paris-Saclay. Seeking a postdoc from January-February 2027.">
+<meta property="og:type" content="profile">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Raphaël Honigsberg",
+  "jobTitle": "PhD candidate in microfluidics",
+  "affiliation": {"@type": "Organization", "name": "ENS Paris-Saclay"},
+  "email": "mailto:raphaelhonigsberg1@gmail.com",
+  "sameAs": ["https://www.linkedin.com/in/rapha%C3%ABl-honigsberg-307b9a310/"],
+  "knowsAbout": ["Microfluidics", "3D printing", "Microfabrication", "Microalgae", "Single-cell imaging", "Image analysis"]
+}
+</script>
+<style>
+:root{--prune:#63003C;--teal:#0092AF;--teal-bg:#E6F4F7;--text:#333;--grey:#6f6f6f;--line:#e3e3e3;--bg:#fff}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font-family:'Open Sans',Arial,sans-serif;font-size:17px;line-height:1.6}
+a{color:var(--teal)}
+.wrap{max-width:860px;margin:0 auto;padding:0 20px}
+header{background:var(--prune);color:#fff;padding:56px 0 44px}
+h1{margin:0;font-size:40px;line-height:1.15;letter-spacing:.3px}
+.role{font-size:19px;margin-top:8px;opacity:.95}
+.where{font-size:15px;margin-top:4px;opacity:.8}
+.btns{display:flex;flex-wrap:wrap;gap:12px;margin-top:26px}
+.btn{display:inline-block;padding:11px 20px;border-radius:6px;font-weight:600;font-size:15px;text-decoration:none;border:2px solid #fff;color:#fff}
+.btn.primary{background:#fff;color:var(--prune)}
+.btn:hover{opacity:.88}
+.seek{background:var(--teal-bg);border-left:6px solid var(--teal);padding:16px 20px;margin:32px 0 8px;font-size:17px}
+.seek b{color:var(--teal)}
+h2{color:var(--teal);font-size:15px;text-transform:uppercase;letter-spacing:1.5px;margin:40px 0 14px;padding-bottom:6px;border-bottom:2px solid var(--teal)}
+.item{margin:0 0 22px}
+.item h3{margin:0;color:var(--prune);font-size:17px}
+.meta{color:var(--grey);font-size:14px;margin:2px 0 6px}
+ul{margin:6px 0 0;padding-left:20px}
+li{margin:3px 0}
+.tags{display:flex;flex-wrap:wrap;gap:8px;margin-top:6px}
+.tag{background:#f3f3f3;border-radius:14px;padding:4px 12px;font-size:14px}
+footer{margin:48px 0 0;padding:24px 0 40px;border-top:1px solid var(--line);color:var(--grey);font-size:14px}
+@media (max-width:600px){h1{font-size:31px}header{padding:40px 0 32px}body{font-size:16px}}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <h1>Raphaël Honigsberg</h1>
+    <div class="role">PhD candidate in microfluidics, microfabrication &amp; microbial imaging</div>
+    <div class="where">LBPA &amp; LuMIn, ENS Paris-Saclay, CNRS, Université Paris-Saclay · Paris, France</div>
+    <div class="btns">
+      <a class="btn primary" href="Raphael_Honigsberg_CV.pdf">Download my CV (PDF)</a>
+      <a class="btn" href="https://www.linkedin.com/in/rapha%C3%ABl-honigsberg-307b9a310/">LinkedIn</a>
+      <a class="btn" href="mailto:raphaelhonigsberg1@gmail.com">raphaelhonigsberg1@gmail.com</a>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+  <div class="seek"><b>Seeking a postdoctoral position</b> from January-February 2027 - microfluidics, 3D microfabrication, single-cell imaging. Academic, open to industry.</div>
+
+  <h2>About</h2>
+  <p>Biologist trained in microfluidics. I design and build microfluidic platforms end to end - CAD, 3D-printed molds, clean-room processes, live imaging and automated image analysis - to follow microbial growth down to single cells. My next goal: a <b>scalable fabrication strategy for functional 3D microfluidics</b>, in an academic lab or with industry.</p>
+  <div class="tags">
+    <span class="tag">3D printing (SLA, DLP)</span><span class="tag">Fusion 360 · L-Edit</span><span class="tag">SU-8 photolithography</span>
+    <span class="tag">PDMS soft lithography</span><span class="tag">Hydrogels &amp; surface chemistry</span><span class="tag">COMSOL</span>
+    <span class="tag">Epifluorescence &amp; confocal</span><span class="tag">StarDist · Cellpose · ilastik · TrackMate</span>
+    <span class="tag">Microalgae &amp; bacteria</span>
+  </div>
+
+  <h2>Current research</h2>
+  <div class="item">
+    <h3>A pump-free microfluidic platform from a single 3D-printed mold</h3>
+    <div class="meta">PhD, 2023 - January 2027 · supervisors E. Deprez, B. Le Pioufle, S. Bensalem</div>
+    <ul>
+      <li>PDMS chip with 400 gravity-trap wells, cast from one 3D-printed mold, operated with a pipette: no pump, no clean room.</li>
+      <li>On-chip light × chemical gradient screening: 100 conditions × 4 replicates per chip, up to 9 chips per run.</li>
+      <li>Multi-day time-lapse imaging of microalgae and bacteria down to single cells, with an automated image-analysis pipeline.</li>
+    </ul>
+  </div>
+  <div class="item">
+    <h3>Meet me at MicroTAS 2026, Granada</h3>
+    <div class="meta">Poster M003 · Monday 19 October 2026, 15:00 - 17:00</div>
+    <p style="margin:0">Low-cost microfluidic platform to monitor early growth from single microalgal cells in bacteria co-culture.<br>
+    R. Honigsberg, R. Ghasemi, J. F. Audibert, E. Deprez, B. Le Pioufle, S. Bensalem.</p>
+  </div>
+
+  <h2>Publications</h2>
+  <div class="item">
+    <p style="margin:0">León Y, <b>Honigsberg R</b>, Rasko DA, Faherty CS. Gastrointestinal signals in supplemented media reveal a role in adherence for the <i>Shigella flexneri</i> sap autotransporter gene. <i>Gut Microbes</i> 16(1), 2024.
+    <a href="https://doi.org/10.1080/19490976.2024.2331985">doi:10.1080/19490976.2024.2331985</a></p>
+  </div>
+  <div class="item">
+    <p style="margin:0"><b>Honigsberg R</b>, et al. 3D-printed mould for a through-hole array: a pump-free chip for light × nitrate phenotyping of microalgae (working title). In preparation for <i>Lab on a Chip</i>.</p>
+  </div>
+
+  <h2>Innovation</h2>
+  <div class="item">
+    <h3>Créativité Prize, Starthèse start'up pitch-ID 2025</h3>
+    <div class="meta">Université Paris-Saclay · July 2025 · then pitched at BIG 2025 (Bpifrance), Paris</div>
+    <p style="margin:0">Project <i>Honigs</i>: 3D-printed microfluidics for cell culture.
+    <a href="https://news.universite-paris-saclay.fr/actualites/sept-doctorantes-et-doctorants-de-luniversite-paris-saclay-pitcheront-au-salon-big-2025">Read the Université Paris-Saclay article</a>.</p>
+  </div>
+
+  <h2>Background</h2>
+  <ul>
+    <li>École Normale Supérieure Paris-Saclay (normalien), 2019 - 2023</li>
+    <li>MSc Fundamental Microbiology, Université Paris Cité &amp; Institut Pasteur, 2023</li>
+    <li>Master's thesis, Institut Pasteur &amp; LadHyX, École Polytechnique, 2023</li>
+    <li>Pre-doctoral research year, Harvard Medical School &amp; Massachusetts General Hospital, Boston, 2021 - 2022</li>
+  </ul>
+</main>
+
+<footer>
+  <div class="wrap">Raphaël Honigsberg · <a href="mailto:raphaelhonigsberg1@gmail.com">raphaelhonigsberg1@gmail.com</a> · last updated October 2026</div>
+</footer>
+</body>
+</html>
